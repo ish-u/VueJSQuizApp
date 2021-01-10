@@ -5,11 +5,11 @@
             <hr class="my-4">
             <b-list-group>
                 <b-list-group-item 
+                    v-html="answer"
                     v-for="(answer,index) in shuffledAnswers" :key="index"
                     @click="selectAnswer(index)"
                     :class="answerClass(index)"
                 >
-                    {{answer}}
                 </b-list-group-item>
             </b-list-group>
             <b-button variant="primary"
