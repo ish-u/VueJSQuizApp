@@ -1,24 +1,2 @@
-# quiz
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Quiz App
+A Vue.JS Tutorial App : [App Link](), [TutorialLink](https://www.youtube.com/watch?v=4deVCNJq3qc&t=6601s)
